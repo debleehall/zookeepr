@@ -9,7 +9,7 @@ An online catalog for a local zoo.
 * JavaScript
 
 ## Website
-https://debleehall.github.io/zookeepr/
+https://pacific-beach-36493.herokuapp.com/
 
 #### OSU Bootcamp
 This website was used to teach Module 11 (Express.js). 
